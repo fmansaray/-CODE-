@@ -1,4 +1,4 @@
-// Matt Halloway
+//CS-CODE
 // Faith Mansaray
 // CSCI- A504
 // Homework 6- Question 1 
@@ -17,8 +17,8 @@ public class PenniesForPay
 {
 	public static void main(String[] args)
 	{
-		int NumDays;
-		double Amount = 0.01;
+	    int NumDays;
+	    double Amount = 0.01;
 	    double Total_Amount = 0.01;
 	    double total = 0;
 		
